@@ -1,0 +1,23 @@
+budy{
+    background-color: aqua;
+    color:bisque;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 700px;
+    margin: 0;
+
+}
+button{
+    background-color: aliceblue;
+    color: antiquewhite;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+} 
+.passo{
+    display: none;
+}
+.passo.ativo{
+    display:block;
+}
